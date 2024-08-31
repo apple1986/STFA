@@ -14,10 +14,6 @@ Install Pytorch == 2.0.0(depends on your NVIDIA driver and you can see your comp
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
 ```
 
-## python required packages
-```
-pip install -r requirements.txt
-```
 
 ## Run
 python train_STFA.py
