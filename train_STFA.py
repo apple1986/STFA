@@ -434,7 +434,7 @@ if __name__ == "__main__":
     torch.manual_seed(args.seed)
     torch.cuda.manual_seed(args.seed)
 
-    args.save_path = "/home/data/lxs/SSL1/STFA_model/{}_{}/{}".format(args.exp, args.labeled_num, args.model)
+    args.save_path = "/home/data/lxs/SSL1/SSL4MIS-master/SSL4MIS-master/SAM_model/{}_{}/{}".format(args.exp, args.labeled_num, args.model)
     if not os.path.exists(args.save_path):
         os.makedirs(args.save_path)
 
