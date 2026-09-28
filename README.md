@@ -1,4 +1,4 @@
-# README.md
+# STFA
 # Structural Tensor and Frequency Guided Semi-Supervised Segmentation for Medical Images
 Xuesong Leng, Xiaxia Wang, Wenbo Yue, Jianxiu Jin, Guoping Xu
 
